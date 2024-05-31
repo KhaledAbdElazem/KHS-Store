@@ -1,8 +1,6 @@
 
 # KHS Store
 
-![KHS Store](path/to/your/image.jpg) 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -29,10 +27,10 @@ KHS Store is a Flutter-based e-commerce application designed to provide users wi
 ## Screenshots
 
 ### Home Page
-![Home Page](path/to/Screenshot_٢٠٢٤٠٥٢٤-٢٠١٣٤٩.jpg)
+![Home Page](https://github.com/KhaledAbdElazem/KHS-Store/blob/main/assets/banners/home.jpg?raw=true)
 
 ### Account Settings
-![Account Settings](path/to/Screenshot_٢٠٢٤٠٥٢٤-٢٠١٤٤٤.jpg)
+![Account Settings](https://github.com/KhaledAbdElazem/KHS-Store/blob/main/assets/banners/profile.jpg?raw=true)
 
 ## Installation
 
